@@ -1,1 +1,1 @@
-# Solving_Problems_FutureSkill
+## 퓨처스킬에서 제공하는 문제들을 풀이하는 repo입니다.
